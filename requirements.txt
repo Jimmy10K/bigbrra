@@ -1,0 +1,14 @@
+# BiglobeValidator - Requirements
+
+# Modules utilisés :
+# - smtplib : bibliothèque standard Python (pas besoin d'installation)
+# - ssl : bibliothèque standard Python (pas besoin d'installation)
+# - threading : bibliothèque standard Python (pas besoin d'installation)
+# - time : bibliothèque standard Python (pas besoin d'installation)
+# - concurrent.futures : bibliothèque standard Python (pas besoin d'installation)
+# - os : bibliothèque standard Python (pas besoin d'installation)
+
+# => AUCUNE installation externe requise.
+
+# Pour rappel :
+# Ce script tourne directement avec n'importe quelle installation Python 3.8 ou supérieur.
